@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_channels_channels",
+  "info": {
+    "displayName": "Channels",
+    "icon": "cogs"
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}
